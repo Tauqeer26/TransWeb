@@ -744,15 +744,15 @@ li {
   position: absolute;
   left: 50%;
   top: 50%;
-  width: 150px;
+  width: 250px;
   margin-left: -75px;
   margin-top: -110px;
-  height: 150px;
+  height: 250px;
   background-position: center center;
   background-repeat: no-repeat;
   -webkit-animation: zoom-two 1.5s infinite linear;
           animation: zoom-two 1.5s infinite linear;
-  background-image: url(../images/faviT.png);
+  background-image: url(../images/faviT4.png);
   content: "";
 }
 
